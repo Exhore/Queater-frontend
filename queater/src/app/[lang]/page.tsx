@@ -1,0 +1,25 @@
+import { GeneralProps } from '@/interfaces/lang-props'
+import { Metadata, ResolvingMetadata } from 'next'
+import { getDictionary } from './dictionaries'
+import { NunitoText } from '@/components/atoms/texts/inter_text'
+
+export async function generateMetadata(
+  { params: { lang } }: GeneralProps,
+  parent: ResolvingMetadata,
+): Promise<Metadata> {
+  const dict = await getDictionary(lang)
+
+  return {
+    title: `${dict.metadata.title}`,
+    description: dict.metadata.description,
+    alternates: {
+      canonical: `https://`,
+    },
+    /* keywords: dict.general.metadata.home.keywords, */
+  }
+}
+
+export default async function Home({ params: { lang } }: GeneralProps) {
+  const dict = await getDictionary(lang)
+  return <main className="flex h-full w-full flex-col bg-slate-50"></main>
+}

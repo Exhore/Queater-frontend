@@ -1,0 +1,406 @@
+{
+    "metadata": {
+        "title": "OLSEN ESTATE",
+        "description": ""
+    },
+    "buttons": {},
+    "navbar": {
+        "language": {
+            "english": "ENGLISH",
+            "spanish": "SPANISH",
+            "german": "GERMAN"
+        },
+        "about_us": "SOBRE NOSOTROS",
+        "service": "SERVICIOS"
+    },
+    "home": {
+        "header": {
+            "title": "Olsen Estate",
+            "boldtext": "Disfruta del verano todo el año",
+            "subtitle": "Encuentre su vivienda en Lanzarote con Olsen Estate."
+        },
+        "discover": {
+            "lanzarote": "Descubre Lanzarote",
+            "unique": "Una isla única",
+            "years": "Años de experiencia",
+            "photo_title": "Encuentre la mejor casa con nuestros expertos",
+            "contact_button": "CONTACTO",
+            "firstbox": "Amplia selección de propiedades",
+            "firstbox_text": "Disponemos de una amplia selección de viviendas. Hay algo para todos los gustos.",
+            "secondbox": "Las mejores zonas de Lanzarote",
+            "secondbox_text": "Encuentre propiedades únicas en los lugares más bellos de Lanzarote.",
+            "thirdbox": "Consultoría de inversiones",
+            "thirdbox_text": "Gracias a nuestra experiencia le asesoraremos sobre las mejores oportunidades de inversión."
+        },
+        "swiper": {
+            "title": "Últimas Propiedades en Venta en Lanzarote",
+            "seemore": "Ver más"
+        },
+        "about_us": {
+            "title": "SOBRE NOSOTROS",
+            "subtitle": "Descubra la experiencia de Olsen",
+            "text": "Décadas de experiencia en transacciones inmobiliarias, cumplimiento de obligaciones fiscales y gestión de comunidades, proporcionando soluciones integrales a nuestros clientes.",
+            "button": "SOBRE NOSOTROS"
+        }
+    },
+    "searchbar": {
+        "location": "Ubicación",
+        "type": "Tipo",
+        "price": "Precio",
+        "reference": "Referencia",
+        "button": "BUSCAR"
+    },
+    "searchpage": {
+        "house_name_example": {
+            "title": "House name example",
+            "description": ""
+        },
+        "seatitle": "DO NOT YOU FIND WHAT YOU ARE LOOKING FOR?",
+        "seadescription": "Díganos qué tipo de propiedad le interesa e intentaremos encontrar la oportunidad que mejor se adapte a usted.",
+        "seacontact_button": "CONTACTO"
+    },
+    "about_us": {
+        "searchmyhome": {
+            "title": "EN NUESTRA PÁGINA ENCONTRARÁ SIEMPRE UNA GRAN SELECCIÓN DE PROPIEDADES EN LAS MEJORES ZONAS RESIDENCIALES DE PLAYA BLANCA, ASÍ COMO PROPIEDADES ÚNICAS EN LOS LUGARES MÁS BELLOS DE LANZAROTE. SIN DUDA, HAY ALGO PARA TODOS LOS GUSTOS.",
+            "button": "BUSCAR MI CASA",
+            "established": "SU ASESOR - INMOBILIARIO ESTÁ AQUÍ",
+            "established_date": "FUNDADA EN 1988"
+        },
+        "established": {
+            "about_us": "01/SOBRE NOSOTROS",
+            "title": "OLSEN ESTATE, S.L. FUE FUNDADA EN 1988",
+            "trajectory": "TRAYECTORIA",
+            "description": "Nos dedicamos a la administración de comunidades de propietarios desde su fundación. En 2003, unos 15 años después de su puesta en marcha, y partiendo de la actividad de servicios administrativos, la empresa comenzó a ofrecer los servicios de venta de inmuebles y servicios fiscales para propietarios no residentes. </br></br> Desde 2005, Jon W. Olsen es colaborador social de la Agencia Estatal de Administración Tributaria (AEAT) y está autorizado a firmar declaraciones fiscales y a pagar impuestos por cuenta de terceros. En la actualidad, la empresa cuenta con una plantilla de 8 profesionales procedentes de 6 países europeos y con un equipo de hablantes nativos de Bélgica, Cataluña, Alemania, Noruega, Rumanía y España."
+        },
+        "ourservices": {
+            "ourservices": "02/NUESTROS SERVICIOS",
+            "title": "SERVICIOS INMOBILIARIOS INTEGRALES",
+            "subtitle": "Olsen ofrece asesoramiento experto en transacciones inmobiliarias, cumplimiento de obligaciones fiscales para no residentes y gestión integral de comunidades.",
+            "first_title": "AGENTE INMOBILIARIO",
+            "first_description": "Ofrecemos servicios integrales de compra y venta de propiedades en Playa Blanca, asesorando durante todo el proceso.",
+            "second_title": "ASESORES FISCALES (NO RESIDENTES)",
+            "second_description": "Los propietarios extranjeros con residencia fiscal fuera de España son considerados 'No Residentes' y tienen responsabilidades fiscales específicas.",
+            "third_title": "ADMINISTRACIÓN DE COMUNIDADES DE PROPIETARIOS",
+            "third_description": "Gestionamos las comunidades de propietarios llevando las cuentas, cobrando las cuotas, preparando informes financieros, organizando las juntas generales y sirviendo de contacto para todas las partes interesadas."
+        }
+    },
+    "slug": {
+        "icon": {
+            "new": "NUEVO",
+            "3dtour": "TOUR 3D",
+            "price_reduction": "PRECIO REDUCIDO",
+            "reserved": "RESERVADO"
+        },
+        "virtualtour": "Virtual Tour",
+        "house_title": "Casa",
+        "gallery": "Galería",
+        "address": "Dirección",
+        "fullscreen": "Pantalla Completa",
+        "description": "Descripción",
+        "house_example": {
+            "description_title": "Unique opportunity to buy this prestigious Villa",
+            "description": "This wonderful, contemporary villa is situated on a vast elevated  plot at the foot of the famous Montaña Roja (red mountain) in Playa  Blanca on the island of Lanzarote. Perfect as a permanent family home, or a holiday house to enjoy the  all year round Lanzarote sunshine, or even a partying house with the  various facilities and entertaining areas, this property truly has it  all. It has been modernised and refurbished to the highest of standards,  creating a modern yet timeless design. Located in a very quiet, exclusive residential area, privacy has been  hugely important in the development of this villa. Nevertheless, it is  only a short walk or drive from amenities such as shops, bars and  restaurants. Moreover, the views are incredibly unique. Of course,  there’s the mountain to see but looking south you have views to the  whole of Playa Blanca, stretching from Papagyo in the west to the  lighthouse in the east.",
+            "table": {
+                "property_id": "ID Propiedad",
+                "price": "Precio",
+                "bedrooms": "Dormitorios",
+                "bathrooms": "Baños",
+                "property_size": "Tamaño de la propiedad",
+                "land_area": "Superficie",
+                "years_built": "Año de construcción",
+                "type": "Tipo de vivienda",
+                "property_type": {
+                    "house_villa": "casa/villa",
+                    "apartment": "Apartamento",
+                    "duplex": "Dúplex",
+                    "studio": "Estudio",
+                    "bungalow": "Bungalow",
+                    "penthouse": "Ático",
+                    "townhouse": "Casa adosada",
+                    "villa": "Villa",
+                    "house": "Casa terrera"
+                },
+                "property_status": {
+                    "sale": "En venta",
+                    "rent": "En alquiler"
+                }
+            }
+        },
+        "seemore": "Ver más",
+        "property": "Propiedades",
+        "features": {
+            "title": "Características",
+            "alarm_system": "Sistema de alarma",
+            "furnished": "Totalmente amueblado",
+            "tennis": "Pista de tenis iluminada",
+            "detached": "Independiente",
+            "gates": "Puertas automáticas",
+            "bar": "Bodega/bar",
+            "garden": "Amplios jardínes",
+            "similar_title": "lorem ipsum lorem ipsum"
+        },
+        "swiper": {
+            "similar_title": "Propiedades Similares",
+            "seemore_button": "VER MÁS"
+        }
+    },
+    "contact": {
+        "card_title": "Olsen Real Estate",
+        "card_subtitle": "LOREM IPSUM DOLOR SIT",
+        "name": "Nombre",
+        "phone": "Teléfono",
+        "email": "Email",
+        "message": "Mensaje",
+        "terms": "Al enviar este formulario acepto las Condiciones de uso",
+        "message_button": "ENVIAR MENSAJE",
+        "title": "¿Está interesado en este inmueble?",
+        "subtitle": "PÓNGASE EN CONTACTO CON NOSOTROS Y ORGANICEMOS UNA VISITA",
+        "location": "Ubicación",
+        "location_address": "Calle Azores, 2, 35580 Playa Blanca, Las Palmas",
+        "phone_number": "Número de teléfono"
+    },
+    "buy_and_sell": {
+        "welcome": {
+            "text": "Bienvenidos a nuestra inmobiliaria en Lanzarote. Aquí encontrarás toda la información necesaria para comprar o vender tu propiedad de manera sencilla y eficiente.",
+            "secondtext": "Te contamos todo lo que debes saber",
+            "thirdtext": "¿En qué estás interesad@?",
+            "buy_button": "Comprar",
+            "sell_button": "Vender",
+            "next_button": "SIGUIENTE",
+            "contact_button": "CONTACTAR"
+        },
+        "step1": "PASO 1",
+        "step2": "PASO 2",
+        "step3": "PASO 3",
+        "step4": "PASO 4",
+        "step5": "PASO 5",
+        "step6": "PASO 6",
+        "step7": "PASO 7",
+        "buy": {
+            "information": "INFORMACIÓN",
+            "beforebuy": "Antes de comprar",
+            "description": "Comprar una propiedad en el extranjero puede resultar confuso debido a las leyes y costumbres extranjeras. Ya que el comprador se encarga de la gran mayoría de los actos preparatorios, es recomendable buscar el asesoramiento de un abogado o de su agencia inmobiliaria, si ésta ofrece un servicio de gestión de compraventa. En Olsen Estate, podemos asesorarle en todas las fases de su compra y asegurar que todo se gestione correctamente y sin problemas.  A continuación, te ofrecemos una <b class='font-bold'>guía paso a paso del proceso de compra</b>:",
+            "step1": {
+                "title": "Elige una propiedad",
+                "feature": "Contamos con una gran variedad de viviendas en toda la isla, tómate tu tiempo para <b class='font-bold'>investigar y elegir la propiedad adecuada</b>.",
+                "secondfeature": "No solo <b class='font-bold'>te ayudaremos a encontrar la propiedad adecuada</b>, también te proporcionaremos un <b class='font-bold'>desglose claro de todos los costes e impuestos asociados a la compra</b> para garantizar que comprendas cada etapa del proceso."
+            },
+            "step2": {
+                "title": "Acuerdo de compra",
+                "feature": "Una vez que hayas encontrado la casa de tus sueños, se negociarán detalles más precisos con el vendedor: El precio de compra, la fecha de entrega y las formas de pagoNegociación del precio, plazos y condiciones de transferencia.",
+                "alert_title": "Consejo:",
+                "alert": "Para los vendedores, no sólo es importante el precio, sino también la fecha de transmisión deseada. </br> Por esto, si necesitas hipoteca, asegúrate de haber aclarado con antelación las condiciones"
+            },
+            "step3": {
+                "title": "Pago Tasa de Reserva",
+                "feature": " En muchos casos, el comprador tiene que pagar una reserva para que el inmueble sea retirado del mercado. Esta suele ser del 1% del precio de compra acordado, que ya forma parte del precio de compra. ",
+                "alert_title": "Lorem",
+                "alert": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur, ipsum similique veniam quo totam eius aperiam dolorum."
+            },
+            "step4": {
+                "title": "Firma de un contrato privado",
+                "feature": "El contrato privado o contrato de arras contiene todas las condiciones acordadas, así como los derechos y obligaciones de ambas partes y un inventario detallado de los muebles y contenidos incluidos en la venta.",
+                "secondfeature": "El depósito suele ser del <b class='font-bold'>10% del precio de compra</b> acordado, descontando la reserva ya pagada.",
+                "alert_title": "Importante",
+                "alert": "El contrato de arras a menudo incluye una cláusula penitencial para dar a ambas partes la máxima seguridad posible. Si compras con hipoteca, asegúrate de tener la aprobación del banco antes de pagar para no correr riesgo de perder tu depósito."
+            },
+            "step5": {
+                "title": "Preparación de la compraventa",
+                "subtitle": "Asegúrate de tener la siguiente documentación:",
+                "firstfeature": "DNI o pasaporte",
+                "secondfeature": "<b class='font-bold'>El NIE</b> (número de identificación fiscal español para extranjeros) o <b class='font-bold'>CIF</b> (número identificación para empresas).",
+                "thirdfeature": "Poderes notariales si corresponde.",
+                "fourthfeature": "Apertura de una cuenta bancaria en España.",
+                "fivefeature": "Otros documentos necesarios que pueden figurar en el contrato de arras, o que se tengan que solicitar al vendedor."
+            },
+            "step6": {
+                "title": "Cita Notarial",
+                "feature": "En España, la escritura pública de compraventa es un documento estandarizado redactado por la notaría.",
+                "secondfeature": "Si no manejas el idioma español, tendrás a tu disposición un traductor que te explicará en detalle los contenidos del documento.",
+                "thirdfeature": "Una vez aclaradas todas las dudas, el notario verificará todos los detalles y la correcta realización del pago del precio, antes de proceder con la firma de la escritura",
+                "alert_title": "Lorem Ipsum",
+                "alert": "En España, el pago y el traspaso de la propiedad se hacen simultáneamente en la notaría. Una vez que hayas realizado el pago, recibirás las llaves de tu nueva propiedad"
+            },
+            "step7": {
+                "title": "Pasos finales",
+                "feature": "Registro de <b class='font-bold'>proveedores y servicios</b> como agua y luz, internet, teléfono, o la domiciliación de los impuestos municipales.",
+                "secondfeature": "Presentación de las<b class='font-bold'>declaraciones de impuestos</b> correspondientes dentro de un plazo de 30 días naturales.",
+                "thirdfeature": "<b class='font-bold'>Inscripción</b> del nuevo propietario en el <b class='font-bold'>registro de la propiedad</b>. Este último paso suele tardar entre 3 semanas y un mes",
+                "alert_title": "¡Ya habrías acabado el proceso de compra!",
+                "alert": "Esperamos que esta guía te haya sido de ayuda, si te queda alguna duda no dudes en ponerte en contacto con nosotros."
+            }
+        },
+        "sell": {
+            "information": "INFORMACIÓN",
+            "beforesell": "Antes de vender",
+            "description": "Vender una propiedad es una gran decisión que puede implicar muchas emociones. Nuestro objetivo es ayudarte a vender tu propiedad <b class='font-bold'>rápidamente y al mejor precio</b>.",
+            "step1": {
+                "title": "Evaluación y preparación",
+                "feature": "Tasar la propiedad y fijar el precio de venta.",
+                "secondfeature": "Revisión de tu documentación (escritura de compraventa, extracto catastral, etc).",
+                "thirdfeature": "Elaboración de fotografías, descripción y recopilación de características para su posterior publicación.",
+                "fourthfeature": "Grabación de visita virtual <a href='https://matterport.com/es'>Matterport</a>",
+                "alert_title": "Nos ocupamos de todo",
+                "alert": "Recibirás de nosotros un resumen de todos los gastos y de los impuestos de ganancias patrimoniales, para que puedas tomar una decisión fundada."
+            },
+            "step2": {
+                "title": "Publicación",
+                "text": "Antes de vender, es importante preparar la casa creando un <b class='font-bold'>ambiente neutro y minimalista</b>. Nos aseguramos de que esté limpia y ordenada, y daremos recomendaciones para algunas pequeñas renovaciones si es necesario. Así, presentamos la casa <b class='font-bold'>en las mejores condiciones para atraer a posibles compradores</b>. A continuación, procedemos con la publicación:",
+                "feature": "<b class='font-bold'>Publicación en Olsenestate.com</b>, Idealista y otros portales, redes sociales, escaparates en nuestra oficina, y otros medios.",
+                "secondfeature": "Compartimos la propiedad con <b class='font-bold'>numerosas agencias</b> en Lanzarote para obtener la mayor visibilidad posible"
+            },
+            "step3": {
+                "title": "Proceso de venta",
+                "feature": "<b class='font-bold'>Organizamos todas las visitas internas y externas</b> y mantenemos un registro de los clientes y agentes que visitan su casa.",
+                "secondfeature": "Actuamos como <b class='font-bold'>intermediario neutral</b> durante las negociaciones con posibles compradores, siempre con el objetivo de llegar a un acuerdo mutuamente satisfactorio"
+            },
+            "step4": {
+                "title": "Preparación de la venta",
+                "subtitle": "Una vez tengamos un acuerdo con un comprador, el siguiente paso sería el de formalizar todo lo que se ha acordado:",
+                "feature": "<b class='font-bold'>Pago de la tasa de reserva no reembolsable por parte del comprador</b> (1% del precio acordado).",
+                "secondfeature": "<b class='font-bold'>Firma de un contrato de arras u opción y pago de un depósito por parte del comprador</b> (10% del precio acordado, incluyendo la reserva ya pagada). Este contrato además tendrá un inventario de bienes y muebles).",
+                "thirdfeature": "Posteriormente, recopilación de todos los <b class='font-bold'>documentos necesarios</b> para proceder con la venta.",
+                "alert_title": "Importante",
+                "alert": "El vendedor debe tener su escritura de adquisición original (o copia autorizada) y de sus NIE originales, entre otros. Podemos ayudarle a solicitar cualquier documentación, certificación y demás que sea necesaria"
+            },
+            "step5": {
+                "title": "Cita Notarial",
+                "feature": "Si no manejas el idioma español, tendrás a tu disposición un traductor que te explicará en detalle los contenidos de la escritura",
+                "secondfeature": "Una vez aclaradas todas las dudas, el notario verificará todos los detalles y la correcta realización y recepción del pago del precio restante, antes de proceder con la firma de la escritura.",
+                "thirdfeature": "Una vez firmado la escritura, el vendedor o su representante debe entregar las llaves al comprador",
+                "alert_title": "Importante",
+                "alert": "La organización es fundamental para la cita con el notario. Por un lado, es obligatorio acudir personalmente a la cita o estar representado por un poder notarial. Por otro lado, la entrega de la casa tiene lugar enseguida, es decir, no podrá volver a la vivienda después de la firma"
+            },
+            "step6": {
+                "title": "Pasos finales",
+                "feature": "<b class='font-bold'>Cancelación de servicios</b> y proveedores.",
+                "secondfeature": "Presentación de <b class='font-bold'>declaraciones de impuestos y/o solicitudes de devolución</b>, en caso de haber vendido sin ganancias patrimoniales.",
+                "alert_title": "¡Ya habrías acabado el proceso de venta!",
+                "alert": "Esperamos que esta guía te haya sido de ayuda, si te queda alguna duda no dudes en ponerte en contacto con nosotros."
+            }
+        }
+    },
+    "footer": {
+        "text": "SU ASESOR INMOBILIARIO EN LANZAROTE",
+        "home": "INICIO",
+        "about_us": "SOBRE NOSOTROS",
+        "service": "SERVICIOS",
+        "contact": "CONTACTO",
+        "real_estate": "INMOBILIARIA",
+        "taxes": "ASESORES FISCALES",
+        "community": "ADMINISTRACIÓN DE COMUNIDADES DE PROPIETARIOS",
+        "social": "REDES SOCIALES",
+        "created_by": "Created by Marketec360",
+        "termsofservice": "Condiciones del Servicio",
+        "privacypolicy": "Política de Privacidad"
+    },
+    "cookies_popup": {},
+    "legal_pages": {
+        "button": "LEGAL TERMS",
+        "legal": {
+            "metadata": {
+                "title": "Legal Notice",
+                "description": "Legal Notice"
+            },
+            "legal_advice": {
+                "title": "LEGAL NOTICE",
+                "description": "In compliance with Law 34/2002, of July 11, 2002, on Information Society Services and Electronic Commerce (LSSI-CE), OLSEN ESTATE informs that it is the owner of the website www.olsenestate.com. In accordance with the requirements of Article 10 of the aforementioned Law, OLSEN ESTATE informs of the following data: The owner of this website is OLSEN ESTATE, with DNI 'X' and registered office at Calle Azores, 2, 35580 Playa Blanca, Las Palmas. The e-mail address for contact with the company is: X."
+            },
+            "user": {
+                "title": "USER AND LIABILITY REGIME",
+                "description": "Navigation, access and use of the website OLSEN ESTATE confers the condition of user, by which they accept, from browsing the website OLSEN ESTATE, all the conditions of use set forth herein without prejudice to the application of the relevant regulations of mandatory legal compliance as appropriate. <br/> <br/> The OLSEN ESTATE website provides a wide range of information, services and data. The user assumes responsibility for the correct use of the website. This responsibility shall extend to: <br/> <br/> <ul className='list-disc list-inside'> <li> The truthfulness and legality of the information provided by the user in the forms provided by OLSEN ESTATE for access to certain content or services offered by the web. <br/> <br/>  </li> <li>The use of the information, services and data offered provided by these conditions, the law, morality, good customs or public order, or otherwise may involve injury to the rights of third parties or the operation of the website. </li> </ul>"
+            },
+            "politics_links": {
+                "title": "LIAISON POLICY AND DISCLAIMER OF LIABILITY",
+                "description": "OLSEN ESTATE is not responsible for the content of the websites to which the user may access through the links established on its website and declares that under no circumstances will it proceed to examine or exercise any kind of control over the content of other sites of the network. Likewise, it does not guarantee the technical availability, accuracy, veracity, validity or legality of sites outside its property that can be accessed through the links. <br/> <br/> OLSEN ESTATE declares to have adopted all necessary measures to avoid any damage to users of its website, which may arise from browsing its website. Consequently, OLSEN ESTATE is not responsible, under any circumstances, for the eventual damage that the user could suffer by browsing the Internet. "
+            },
+            "mods": {
+                "title": "MODIFICATIONS",
+                "description": "OLSEN ESTATE reserves the right to make any changes it deems appropriate, without prior notice, to the content of its website. Both with regard to the contents of the website and the conditions of use thereof. Such modifications may be made through its website by any legally permissible means and shall be binding during the time they are published on the website and until they are not validly modified by subsequent ones. "
+            },
+            "data_protection": {
+                "title": "DATA PROTECTION",
+                "description": "In accordance with the provisions of Law 15/1999 on the Protection of Personal Data (LOPD), OLSEN ESTATE informs users of its website that personal data collected by the company, through the forms located on its pages, will be entered into an automated file under the responsibility of OLSEN ESTATE, in order to facilitate, expedite and fulfill the commitments established between the two parties. <br/> <br/> Likewise, OLSEN ESTATE - informs of the possibility of exercising the rights of access, rectification, cancellation and opposition by writing to the address: Av. de las Playas, 8, 35510 Puerto del Carmen, Las Palmas <br/> <br/> As long as the user does not communicate otherwise to OLSEN ESTATE, the latter will understand that their data have not been modified, that the user undertakes to notify OLSEN ESTATE any variation and that OLSEN ESTATE has the consent to use them in order to be able to fidelize the relationship between the parties. "
+            },
+            "intelectual_property": {
+                "title": "INTELLECTUAL AND INDUSTRIAL PROPERTY",
+                "description": "OLSEN ESTATE by itself or as assignee, is the owner of all the intellectual and industrial property rights of its website, as well as of the elements contained therein (by way of example, images, sound, audio, video, software or texts; trademarks or logos, combinations of colours, structure and design, selection of materials used, computer programs necessary for its operation, access and use, etc. ), ownership of OLSEN ESTATE. They are, therefore, works protected as intellectual property by the Spanish legal system, being applicable to them. both Spanish and Community legislation in this field and the relevant international treaties signed by Spain. <br/> <br/> All rights reserved. Under the provisions of Articles 8 and 32. 1, second paragraph, of the Intellectual Property Law, are expressly prohibited reproduction, distribution and public communication, including its mode of making available, all or part of the contents of this website, for commercial purposes, in any medium and by any technical means, without the authorization of OLSEN ESTATE. <br/> <br/> The user agrees to respect the rights of Intellectual and Industrial Property owned by OLSEN ESTATE. You can view the elements of the portal and even print, copy and store them on the hard drive of your computer or any other hardware provided that it is solely and exclusively for your personal and private use. The user shall refrain from removing, altering, circumventing or tampering with any protective device or security system that is installed on the pages of OLSEN ESTATE. "
+            },
+            "legal_action": {
+                "title": "LEGAL ACTIONS, APPLICABLE LAW AND JURISDICTION",
+                "description": "OLSEN ESTATE also reserves the right to file civil or criminal actions it deems appropriate for the misuse of its website and content, or for breach of these conditions. <br/> <br/> The relationship between the user and the provider shall be governed by the regulations in force and applicable in the Spanish territory. In the event of any dispute, the parties may submit their disputes to arbitration or to the ordinary courts in accordance with the rules of jurisdiction and jurisdiction. OLSEN ESTATE is domiciled in Av. de las Playas, 8, 35510 Puerto del Carmen, Las Palmas"
+            }
+        }
+    },
+    "cookies": {
+        "metadata": {
+            "title": "Cookies Policy",
+            "description": "Cookies Policy"
+        },
+        "title": "Cookies Policy",
+        "description": "A Cookie is a file that is downloaded to your computer when you access certain web pages. Cookies allow a website, among other things, to store and retrieve information about the browsing habits of a user or its equipment and, depending on the information it contains and the way you use your computer, can be used to recognize the user.  <br /> <br /> Cookies are essential for the operation of the Internet, providing countless advantages in providing interactive services, facilitating navigation and usability of our website  <br /> <br /> The information provided below will help you understand the different types of cookies:",
+        "table1": {
+            "title": "Types of cookies",
+            "row1": {
+                "title": "ACCORDING TO THE ENTITY MANAGING THEM",
+                "content1": {
+                    "title": "Own cookies",
+                    "content": "These are those that are collected by the editor himself to provide the service requested by the user."
+                },
+                "content2": {
+                    "title": "Own cookies",
+                    "content": "They are those that are collected and managed by a third party, these cannot be considered own."
+                }
+            },
+            "row2": {
+                "title": "ACCORDING TO THE LENGTH OF TIME THEY REMAIN ACTIVATED",
+                "content1": {
+                    "title": "Session cookies",
+                    "content": "Collect data while the user navigates the network in order to provide the requested service."
+                },
+                "content2": {
+                    "title": "Permanent cookies",
+                    "content": "They are stored in the terminal and the information obtained will be used by the person responsible for the cookie in order to provide the requested service."
+                }
+            },
+            "row3": {
+                "title": "According to Purpose",
+                "content1": {
+                    "title": "Technical Cookies",
+                    "content": "They are necessary for proper web browsing."
+                },
+                "content2": {
+                    "title": "Personalization Cookies",
+                    "content": "They allow the user to customize features (language) for browsing the website."
+                },
+                "content3": {
+                    "title": "Analysis Cookies",
+                    "content": "They allow the provider to analyze the user's browsing, in order to track website usage and compile statistics on the most visited content, number of visitors, etc."
+                },
+                "content4": {
+                    "title": "Advertising Cookies",
+                    "content": "They allow the publisher to include advertising spaces on the website, according to the website's content."
+                },
+                "content5": {
+                    "title": "Behavioral Advertising Cookies",
+                    "content": "They allow the publisher to include advertising spaces on the website based on the information obtained through the user's browsing habits."
+                }
+            }
+        },
+        "post_table": "In compliance with the provisions of article 22.2 of Law 34/2002, of July 11, on Information Society Services and Electronic Commerce (LSSI-CE),OLSEN ESTATE informs about the cookies used on our website:<br /><br />",
+        "table2": {
+            "finality": "P <br /> U<br /> R<br /> P<br /> O<br /> S<br /> E",
+            "types": "TYPES OF COOKIES",
+            "technical": "Technical Cookies",
+            "personalization": "Personalization Cookies",
+            "analysis": "Analysis Cookies",
+            "advertising": "Advertising Cookies",
+            "behavioral_advertising": "Behavioral Advertising Cookies",
+            "session": "Session Cookies",
+            "own": "Own Cookies",
+            "third_party": "Third-party Cookies"
+        },
+        "post_table2": "Likewise, OLSEN ESTATE informs the user that they have the possibility to configure their browser so that they are informed of the reception of cookies, being able, if they wish, to prevent them from being installed on their hard drive. ",
+        "post_table3": "Below are links to various browsers through which you can make this configuration:"
+    }
+}
