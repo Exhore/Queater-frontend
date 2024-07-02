@@ -8,8 +8,7 @@ type Dictionaries = {
 
 const dictionaries: Dictionaries = {
   es: () => import('@/i18n/es.json').then((module) => module.default),
-  en: () => import('@/i18n/en.json').then((module) => module.default),
-  de: () => import('@/i18n/de.json').then((module) => module.default),
+  en: () => import('@/i18n/en.json').then((module) => module.default)
 }
 
 export const getDictionary = async (lang: LangOptions): Promise<Dictionary> => {
@@ -20,5 +19,4 @@ export const getDictionary = async (lang: LangOptions): Promise<Dictionary> => {
 export enum LangOptions {
   es = 'es',
   en = 'en',
-  de = 'de',
 }

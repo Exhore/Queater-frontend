@@ -1,7 +1,7 @@
 import { Config } from "next-i18n-router/dist/types";
 
 const i18nConfig: Config = {
-  locales: ["es", "en", "de"],
+  locales: ["es", "en"],
   defaultLocale: "es",
   prefixDefault: true,
   localeCookie: "NEXT_LOCALE",

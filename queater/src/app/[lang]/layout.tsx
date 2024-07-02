@@ -36,10 +36,10 @@ const satoshiBlack = localFont({
 })
 
 export const metadata: Metadata = {
-  title: 'Olsen Estate',
+  title: 'Queater',
   description: '',
   alternates: {
-    canonical: 'https://olsenestate.com/',
+    canonical: 'https://queater.com/',
   },
 }
 
@@ -62,14 +62,14 @@ export default async function RootLayout({ children, params }: Props) {
         <meta property="og:image:width" content="300" />
         <meta property="og:image:height" content="169" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Olsen Estate" />
+        <meta property="og:title" content="Queater" />
         <meta property="og:url" content={process.env.NEXT_PUBLIC_IMAGES_PATH} />
       </head>
       {/* viewport */}
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       {/* body */}
       <body
-        className={`flex h-fit flex-col overflow-x-hidden bg-[red] ${satoshiRegular.variable} ${satoshiBold.variable} ${satoshiLight.variable} ${satoshiMedium.variable} ${satoshiBlack.variable} ${nunito}`}
+        className={`flex h-full w-full max-w-8xl flex-col ${satoshiRegular.variable} ${satoshiBold.variable} ${satoshiLight.variable} ${satoshiMedium.variable} ${satoshiBlack.variable} ${nunito}`}
       >
         {children}
       </body>
