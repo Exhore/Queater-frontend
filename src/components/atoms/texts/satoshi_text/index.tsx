@@ -22,19 +22,21 @@ export const SatoshiText = forwardRef<
   HTMLHeadingElement | HTMLParagraphElement,
   SatoshiTextProps
 >(
-  ({
-    text,
-    tag = 'p',
-    style = 'regular',
-    fontSize = '16px',
-    className = 'text-black',
-  }) => {
-    const textContent = useRef<HTMLParagraphElement>(null)
+  (
+    {
+      text,
+      tag = 'p',
+      style = 'regular',
+      fontSize = '16px',
+      className = 'text-black',
+    },
+    ref,
+  ) => {
     useEffect(() => {
-      if (textContent.current) {
-        textContent.current.innerHTML = text
+      if (ref && 'current' in ref && ref.current) {
+        ref.current.innerHTML = text
       }
-    }, [text])
+    }, [text, ref])
 
     function getSize() {
       switch (fontSize) {
@@ -78,43 +80,43 @@ export const SatoshiText = forwardRef<
       switch (tag) {
         case 'h1':
           return (
-            <h1 ref={textContent} className={`${globalStyle} ${className}`}>
+            <h1 ref={ref} className={`${globalStyle} ${className}`}>
               {text}
             </h1>
           )
         case 'h2':
           return (
-            <h2 ref={textContent} className={`${globalStyle} ${className}`}>
+            <h2 ref={ref} className={`${globalStyle} ${className}`}>
               {text}
             </h2>
           )
         case 'h3':
           return (
-            <h3 ref={textContent} className={`${globalStyle} ${className}`}>
+            <h3 ref={ref} className={`${globalStyle} ${className}`}>
               {text}
             </h3>
           )
         case 'h4':
           return (
-            <h4 ref={textContent} className={`${globalStyle} ${className}`}>
+            <h4 ref={ref} className={`${globalStyle} ${className}`}>
               {text}
             </h4>
           )
         case 'h5':
           return (
-            <h5 ref={textContent} className={`${globalStyle} ${className}`}>
+            <h5 ref={ref} className={`${globalStyle} ${className}`}>
               {text}
             </h5>
           )
         case 'h6':
           return (
-            <h6 ref={textContent} className={`${globalStyle} ${className}`}>
+            <h6 ref={ref} className={`${globalStyle} ${className}`}>
               {text}
             </h6>
           )
         case 'p':
           return (
-            <p ref={textContent} className={`${globalStyle} ${className}`}>
+            <p ref={ref} className={`${globalStyle} ${className}`}>
               {text}
             </p>
           )
