@@ -1,10 +1,8 @@
 import type { Metadata } from 'next'
 import { Nunito } from 'next/font/google'
-import '../globals.css'
 import localFont from 'next/font/local'
+import '../globals.css'
 import { LangOptions, getDictionary } from './dictionaries'
-import { NunitoText } from '@/components/atoms/texts/nunito_text'
-import { SatoshiText } from '@/components/atoms/texts/satoshi_text'
 
 const nunito = Nunito({
   subsets: ['latin'],
@@ -74,13 +72,6 @@ export default async function RootLayout({ children, params }: Props) {
         className={`flex h-full w-full max-w-8xl flex-col ${satoshiRegular.variable} ${satoshiBold.variable} ${satoshiLight.variable} ${satoshiMedium.variable} ${satoshiBlack.variable} ${nunito}`}
       >
         {children}
-        <NunitoText text="NUNITO" style="w700" fontSize="64px" className="" />
-        <SatoshiText
-          text="Satoshi"
-          style="regular"
-          fontSize="60px"
-          className=""
-        />
       </body>
     </html>
   )
