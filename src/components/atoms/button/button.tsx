@@ -2,7 +2,6 @@
 import Link from 'next/link'
 import { useState } from 'react'
 import { SatoshiText } from '../texts/satoshi_text'
-import { SkinnyArrow } from '../svg/skinny_arrow'
 
 interface Props {
   text: string
@@ -36,7 +35,6 @@ export default function Button({
     >
       <div className={buttonClassname}>
         <SatoshiText text={text} fontSize={'14px'} className={textClassname} />
-        {arrow && <SkinnyArrow whitearrow={togglewhite} className="mt-1" />}
       </div>
     </Link>
   )
